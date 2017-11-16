@@ -21,3 +21,5 @@ root@SecFree:/opt/ShadowScanCrack# tar -zxvf john-1.8.0-linux.tar.gz
 root@SecFree:/opt/ShadowScanCrack/john-1.8.0/src# make linux-x86-64
 root@SecFree:/opt/ShadowScanCrack/john-1.8.0/run# ./john
 ```
+如看到下图，说明安装成功。
+![install_john](https://raw.githubusercontent.com/iBearcat/ShadowScanCrack/master/img/install_john.png)
