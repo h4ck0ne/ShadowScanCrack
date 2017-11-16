@@ -7,17 +7,6 @@
 [*]   Use:  java ShadowScan.jar john && /john-x.x.x/run/john ShadowPath PasswordList
 ```
 ## 使用
-### Kali
-```
-java ShadowScan.jar john 资产Shadow 密码字典
-```
-![StartScan](https://raw.githubusercontent.com/iBearcat/ShadowScanCrack/master/img/StartScan.png)
-
-#### 自行安装 john使用方法
-```
-./ShadowScanCrack.jar john-1.8.0/run/john shadow/ password.txt
-```
-![StartScan1](https://raw.githubusercontent.com/iBearcat/ShadowScanCrack/master/img/StartScan1.png)
 
 ### 其他Linux版本需安装john
 #### 下载 john
@@ -33,3 +22,22 @@ root@SecFree:/opt/ShadowScanCrack/john-1.8.0/run# ./john
 如看到下图，说明安装成功。
 
 ![install_john](https://raw.githubusercontent.com/iBearcat/ShadowScanCrack/master/img/install_john.png)
+
+### Kali(无需安装 john)
+```
+java ShadowScan.jar john 资产Shadow 密码字典
+```
+![StartScan](https://raw.githubusercontent.com/iBearcat/ShadowScanCrack/master/img/StartScan.png)
+
+#### 自行安装 john使用方法
+```
+./ShadowScanCrack.jar john-1.8.0/run/john shadow/ password.txt
+```
+![StartScan1](https://raw.githubusercontent.com/iBearcat/ShadowScanCrack/master/img/StartScan1.png)
+
+#### 扫描结果导出
+```
+
+```
+
+
