@@ -12,14 +12,15 @@
 java ShadowScan.jar john 资产Shadow 密码字典
 ```
 ### 其他Linux版本需安装john
-#### Downloads 
+#### 下载 
 https://github.com/magnumripper/JohnTheRipper
 https://github.com/iBearcat/ShadowScanCrack/john-1.8.0-linux.tar.gz
-#### Install
+#### 安装john
 ```
 root@SecFree:/opt/ShadowScanCrack# tar -zxvf john-1.8.0-linux.tar.gz
 root@SecFree:/opt/ShadowScanCrack/john-1.8.0/src# make linux-x86-64
 root@SecFree:/opt/ShadowScanCrack/john-1.8.0/run# ./john
 ```
 如看到下图，说明安装成功。
+
 ![install_john](https://raw.githubusercontent.com/iBearcat/ShadowScanCrack/master/img/install_john.png)
