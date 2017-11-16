@@ -15,8 +15,9 @@ java ShadowScan.jar john 资产Shadow 密码字典
 
 #### 自行安装 john使用方法
 ```
-
+./ShadowScanCrack.jar john-1.8.0/run/john shadow/ password.txt
 ```
+![StartScan1](https://raw.githubusercontent.com/iBearcat/ShadowScanCrack/master/img/StartScan1.png)
 
 ### 其他Linux版本需安装john
 #### 下载 john
