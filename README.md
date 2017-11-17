@@ -31,7 +31,7 @@ root@SecFree:/opt/ShadowScanCrack# ./ShadowScanCrack.jar john-1.8.0/run/john sha
 
 ### Kali(无需安装 john)
 ```
-java ShadowScan.jar john 资产Shadow 密码字典
+root@SecFree:/opt/ShadowScanCrack# ./ShadowScanCrack.jar john 资产Shadow 密码字典
 ```
 ![StartScan](https://raw.githubusercontent.com/iBearcat/ShadowScanCrack/master/img/StartScan.png)
 
