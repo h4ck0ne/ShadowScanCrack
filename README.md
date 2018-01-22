@@ -8,7 +8,7 @@
 ```
 ## 使用
 
-### 其他Linux版本需安装john
+### 非Linux Kali需安装john
 #### 下载 john
 https://github.com/magnumripper/JohnTheRipper
 
